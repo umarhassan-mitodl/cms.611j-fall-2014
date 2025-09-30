@@ -1,0 +1,65 @@
+{
+  "term": "Fall",
+  "year": "2014",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Software Design and Engineering"
+    ],
+    [
+      "Fine Arts",
+      "Game Design"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies",
+      "Digital Media"
+    ],
+    [
+      "Business",
+      "Project Management"
+    ]
+  ],
+  "legacy_uid": "407b4d7b-d6da-663d-702c-00152b0195fd",
+  "instructors": {
+    "content": [
+      "7e5ffa2a-ccdf-4136-9bef-213f34dbf5c0",
+      "e91dc0b1-74a2-78a1-03ee-be32a91b403c",
+      "839f933b-d071-f820-d4fa-178d477cf1c3",
+      "1db3939f-f3b0-557e-55d8-4e09adac08e3"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "68be269a-8890-5491-0804-9836924a39b2",
+    "website": "cms-611j-creating-video-games-fall-2014"
+  },
+  "course_title": "Creating Video Games",
+  "hide_download": true,
+  "course_description": "CMS.611J / 6.073 Creating Video Games is a class that introduces students to the complexities of working in small, multidisciplinary teams to develop video games. Students will learn creative design and production methods, working together in small teams to design, develop, and thoroughly test their own original digital games. Design iteration across all aspects of video game development (game design, audio design, visual aesthetics, fiction and programming) will be stressed. Students will also be required to focus test their games, and will need to support and challenge their game design decisions with appropriate focus testing and data analysis.\n",
+  "department_numbers": [
+    "6",
+    "CMS-W"
+  ],
+  "extra_course_numbers": "6.073",
+  "primary_course_number": "CMS.611J",
+  "course_image_thumbnail": {
+    "content": "4071a2e7-d5f9-1a9e-342e-fa8dce6c7211",
+    "website": "cms-611j-creating-video-games-fall-2014"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects with Examples",
+    "Lecture Videos",
+    "Instructor Insights"
+  ],
+  "site_uid": "83d86946-b7c5-49b4-9f2e-0dda02632298",
+  "site_short_id": "cms.611j-fall-2014",
+  "site_url_path": "courses/cms-611j-creating-video-games-fall-2014",
+  "title": "Course Metadata"
+}

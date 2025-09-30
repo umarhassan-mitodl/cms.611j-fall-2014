@@ -1,0 +1,75 @@
+leftnav:
+- identifier: c321adb5-a59c-6638-24c6-4f0b52329134
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: b5f7bfad-802f-ca56-84cc-388f5e6ffb61
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 7cf88c38-e571-6315-bc92-a6436ff438f6
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 30
+- identifier: 90e2e70d-cfd3-8049-791c-fa676d936848
+  name: Lecture Slides and Readings
+  pageRef: /pages/lecture-slides-and-readings
+  weight: 40
+- identifier: dc33d4c4-d205-4bc6-351b-fd20bc6fc55a
+  name: Lecture Videos
+  pageRef: /video_galleries/lecture-videos
+  weight: 50
+- identifier: 8b0895b3-d7ad-1cd4-2a5f-ab2996439769
+  name: Student Game Projects
+  pageRef: /pages/projects/
+  weight: 60
+- identifier: b7504173-f7b7-6e88-938f-f473c5131c11
+  name: Meet the Instructors
+  pageRef: /pages/instructor-insights/meet-the-instructors
+  parent: 7cf88c38-e571-6315-bc92-a6436ff438f6
+  weight: 10
+- identifier: 4baa5588-9be6-15ee-1a9c-89b0771236b0
+  name: Video Playlist
+  pageRef: /pages/instructor-insights/video-playlist
+  parent: 7cf88c38-e571-6315-bc92-a6436ff438f6
+  weight: 20
+- identifier: 98fe70b8-6d0a-6f6d-cdf5-767e29ff46e9
+  name: Client Insights
+  pageRef: /pages/instructor-insights/client-insights
+  parent: 7cf88c38-e571-6315-bc92-a6436ff438f6
+  weight: 30
+- identifier: 00ca35a7-e8ba-d7b7-ee0d-c83010b9b494
+  name: Student Insights
+  pageRef: /pages/instructor-insights/student-insights
+  parent: 7cf88c38-e571-6315-bc92-a6436ff438f6
+  weight: 40
+- identifier: 0f9115a7-377e-1674-0ad3-897c84817162
+  name: A Closer Look
+  pageRef: /pages/instructor-insights/a-closer-look
+  parent: 7cf88c38-e571-6315-bc92-a6436ff438f6
+  weight: 50
+- identifier: 41d8007e-2d04-e291-e6fb-77f2957ff939
+  name: Hello Waves
+  pageRef: /pages/projects/hello-waves
+  parent: 8b0895b3-d7ad-1cd4-2a5f-ab2996439769
+  weight: 10
+- identifier: 9921714d-b32b-7623-5e76-739007ee10a8
+  name: Cholera Control
+  pageRef: /pages/projects/cholera-control
+  parent: 8b0895b3-d7ad-1cd4-2a5f-ab2996439769
+  weight: 20
+- identifier: d5d9e066-5477-99f0-61e2-9cba26150421
+  name: Saving Gora Gora
+  pageRef: /pages/projects/saving-gora-gora
+  parent: 8b0895b3-d7ad-1cd4-2a5f-ab2996439769
+  weight: 30
+- identifier: 730c94b5-1a9f-064e-2879-a827ca62822c
+  name: Heat Wave
+  pageRef: /pages/projects/heat-wave
+  parent: 8b0895b3-d7ad-1cd4-2a5f-ab2996439769
+  weight: 40
+- identifier: 50667751-7ab3-775d-c320-c9e8f386f932
+  name: Snap!
+  pageRef: /pages/projects/snap
+  parent: 8b0895b3-d7ad-1cd4-2a5f-ab2996439769
+  weight: 50
