@@ -94,7 +94,7 @@ Students interested in designing games for entertainment often go on to take *CM
 ### Requirements Satisfied
 
 - HASS-A ![](/images/educator/icon-question-hass-a.png)
-- This course can be applied toward a Bachelor of Science in [Comparative Media Studies](http://cmsw.mit.edu/), but is not required.
+- This course can be applied toward a Bachelor of Science in {{% resource_link "6cd7f05b-be6a-451b-9281-0eb8dc45b3e1" "Comparative Media Studies" %}}, but is not required.
 
 ### Offered
 
@@ -138,7 +138,7 @@ Mostly sophomores, juniors, and seniors.
 
 ### Breakdown by Major
 
-- Mostly [Electrical Engineering and Computer Science](https://www.eecs.mit.edu/) undergraduate students and [Comparative Media Studies/Writing](http://cmsw.mit.edu/) undergraduate students.
+- Mostly {{% resource_link "1815162e-8bd2-41b5-ad3b-3c43f4dc4145" "Electrical Engineering and Computer Science" %}} undergraduate students and {{% resource_link "6cd7f05b-be6a-451b-9281-0eb8dc45b3e1" "Comparative Media Studies/Writing" %}} undergraduate students.
 - Typically, undergraduates from fields such as biology, mathematics, mechanical engineering, physics and oceanography also enroll.
 
 ### Typical Student Background
