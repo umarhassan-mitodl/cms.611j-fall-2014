@@ -7,8 +7,6 @@ description: "Transcript of a video that provides a closer look at the developme
 file: /courses/cms-611j-creating-video-games-fall-2014/2d5e6ad912803ae402ffd201ffd3fe84_lxpXowuUdKw.pdf
 file_size: 86140
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

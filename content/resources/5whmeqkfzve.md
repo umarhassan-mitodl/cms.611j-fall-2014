@@ -5,8 +5,6 @@ description: "Subtitle file for a lecture video. In this lecture, Heather Albano
 file: /courses/cms-611j-creating-video-games-fall-2014/6d99a83226db9913f4b71d50665f19e4_5wHMEQkFzvE.srt
 file_size: 103510
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

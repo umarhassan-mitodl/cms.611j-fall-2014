@@ -5,8 +5,6 @@ description: Subtitle file for a lecture video. In this lecture, the students pr
 file: /courses/cms-611j-creating-video-games-fall-2014/4a9c3eab4a4f557d97ba4c33e1e400c7_9is-GrNpNvA.vtt
 file_size: 217865
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

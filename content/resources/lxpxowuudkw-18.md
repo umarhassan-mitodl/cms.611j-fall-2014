@@ -7,8 +7,6 @@ description: "Subtitle file for a video that provides a closer look at the devel
 file: /courses/cms-611j-creating-video-games-fall-2014/22940a58e5895405adb11fdd78831b5b_lxpXowuUdKw.vtt
 file_size: 86548
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

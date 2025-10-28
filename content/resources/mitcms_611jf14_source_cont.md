@@ -5,8 +5,6 @@ description: Lecture presentation on revision control, revision control systems,
 file: /courses/cms-611j-creating-video-games-fall-2014/6fc12ad90b28f3e63df521ff93c461cc_MITCMS_611JF14_Source_Cont.pdf
 file_size: 920372
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

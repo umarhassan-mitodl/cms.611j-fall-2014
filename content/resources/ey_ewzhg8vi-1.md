@@ -5,8 +5,6 @@ description: Transcript of a lecture video. In this lecture, Richard Ludlow and 
 file: /courses/cms-611j-creating-video-games-fall-2014/994e8cf94702a7249381bb0b11ffe5b5_Ey_eWZhG8vI.pdf
 file_size: 99140
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

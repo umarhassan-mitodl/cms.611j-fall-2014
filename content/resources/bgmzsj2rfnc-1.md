@@ -5,8 +5,6 @@ description: Transcript of a video of an interview with Tej Chajed, a student fr
 file: /courses/cms-611j-creating-video-games-fall-2014/1646a9286162377dd3aff652e2de659b_bgMZSJ2rfNc.pdf
 file_size: 22679
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

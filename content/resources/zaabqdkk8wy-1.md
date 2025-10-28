@@ -5,8 +5,6 @@ description: "Transcript of a lecture video. In this lecture, Sean Baptiste from
 file: /courses/cms-611j-creating-video-games-fall-2014/38d12e6932c83f09321a259bb2166c99_zaabQDKK8WY.pdf
 file_size: 81541
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

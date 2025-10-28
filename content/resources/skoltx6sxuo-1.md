@@ -5,8 +5,6 @@ description: Subtitle file for a lecture video. Transcript of a lecture video. I
 file: /courses/cms-611j-creating-video-games-fall-2014/42ffb3c81fe9be5852b0bc07bc59019f_sKolTx6sxUo.pdf
 file_size: 175447
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

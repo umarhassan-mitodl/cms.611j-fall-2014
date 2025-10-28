@@ -6,8 +6,6 @@ description: Subtitle file for a video interview with Pablo Suarez, Associate Di
 file: /courses/cms-611j-creating-video-games-fall-2014/ee3c4b2087be1a2523b76065ae41e7f7_WLjo-mDBiDg.srt
 file_size: 15208
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

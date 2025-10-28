@@ -6,8 +6,6 @@ description: "Transcript of a lecture video. In this lecture, the professors des
 file: /courses/cms-611j-creating-video-games-fall-2014/dc3b6e21713b255b415f4d4cae9a23f5_zzKSn1Y80F4.pdf
 file_size: 69377
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

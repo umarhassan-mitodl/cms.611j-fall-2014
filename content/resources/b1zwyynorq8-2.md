@@ -5,8 +5,6 @@ description: Subtitle file for a lecture video. In this lecture, SWERY from Acce
 file: /courses/cms-611j-creating-video-games-fall-2014/0c5e5460b4f1534aa388e1b794281a56_B1zWyyNoRq8.vtt
 file_size: 62640
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

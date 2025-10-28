@@ -5,8 +5,6 @@ description: Transcript of a lecture video. In this guest lecture, Luigi Guatier
 file: /courses/cms-611j-creating-video-games-fall-2014/4dfcfe19c67db2ab4cc245e510a6e7d4_gQHbZlo4Exo.pdf
 file_size: 99960
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

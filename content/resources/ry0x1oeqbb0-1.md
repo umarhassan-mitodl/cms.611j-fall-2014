@@ -4,8 +4,6 @@ description: Transcript of a video introduction to Philip Tan, one of the course
 file: /courses/cms-611j-creating-video-games-fall-2014/6c7a56456670fc1afc346fc49f27a574_RY0X1oEQbb0.pdf
 file_size: 17708
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -5,8 +5,6 @@ description: Subtitle file for a video providing instructor insights on sequenci
 file: /courses/cms-611j-creating-video-games-fall-2014/4abd466711de999d0d3094f677462d63_lyR4HQ01nos.srt
 file_size: 5390
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -5,8 +5,6 @@ description: "Subtitle file for a lecture video on Agile software development wi
 file: /courses/cms-611j-creating-video-games-fall-2014/84e12946d73c5114aa77b6a83803d124_nrfl6GAQy2s.vtt
 file_size: 176664
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

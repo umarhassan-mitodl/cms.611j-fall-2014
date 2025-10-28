@@ -5,8 +5,6 @@ description: Subtitle file for a video introduction to Sara Verrilli, one of the
 file: /courses/cms-611j-creating-video-games-fall-2014/0fc7112a253646520062c82d9fdd6265_bhk8Wtgpb1w.srt
 file_size: 7959
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

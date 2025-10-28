@@ -6,8 +6,6 @@ description: Subtitle file for a lecture video. In this lecture, students discus
 file: /courses/cms-611j-creating-video-games-fall-2014/2e96f543a766588488318f0ba7d1e7bc_-SHXUwpVgXU.vtt
 file_size: 139621
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

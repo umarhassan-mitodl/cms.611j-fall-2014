@@ -4,8 +4,6 @@ description: This resource contains information related to low fidelity prototyp
 file: /courses/cms-611j-creating-video-games-fall-2014/e1b30da45fed72a4b4e18017f2669114_MITCMS_611JF14_project1.pdf
 file_size: 203260
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: Transcript of a video introduction to Sara Verrilli, one of the cou
 file: /courses/cms-611j-creating-video-games-fall-2014/19b8d22cf7bf8832864772266bc9a0fd_bhk8Wtgpb1w.pdf
 file_size: 23496
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

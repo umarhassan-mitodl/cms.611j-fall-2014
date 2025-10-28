@@ -17,4 +17,4 @@ _This interactive timeline illustrates key dates and deliverables for projects i
 
 var timeline\_config = { width: '780', height: '500', source: 'timeline.json', start\_at\_end: false, hash\_bookmark: true, font: 'PTSerif-PTSans', lang: 'en', css: 'https://ocw.mit.edu/styles/timeline.css', js: 'https://ocw.mit.edu/scripts/timeline-min.js' }
 
-\*Content presented in this timeline is subject to our [Creative Commons License](/terms/#cc) and other [terms of use](/terms/). The TimelineJS tool is available at [timeline.knightlab.com](http://timeline.knightlab.com).
+\*Content presented in this timeline is subject to our [Creative Commons License](/terms/#cc) and other [terms of use](/terms/). The TimelineJS tool is available at {{% resource_link "5adb6546-d6e5-4165-863d-3fc12c678184" "timeline.knightlab.com" %}}.

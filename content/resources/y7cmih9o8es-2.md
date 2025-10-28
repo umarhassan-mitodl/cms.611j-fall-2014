@@ -5,8 +5,6 @@ description: Subtitle file for a video offering instructor insights on teaching 
 file: /courses/cms-611j-creating-video-games-fall-2014/8c540d5c628558d28ca830057a757312_Y7cMih9O8es.vtt
 file_size: 10500
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

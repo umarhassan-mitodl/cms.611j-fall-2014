@@ -5,8 +5,6 @@ description: Transcript of a lecture video. In this lecture, Hidetaka "SWERY" Su
 file: /courses/cms-611j-creating-video-games-fall-2014/1ae8d93b905da1d6559a884c89e8a15a_B1zWyyNoRq8.pdf
 file_size: 79918
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

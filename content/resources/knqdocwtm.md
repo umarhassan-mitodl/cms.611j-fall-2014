@@ -6,8 +6,6 @@ description: Subtitle file for a lecture video. In this lecture, the Michael Car
 file: /courses/cms-611j-creating-video-games-fall-2014/5f0220b0ef313608a6f153eb6d933a1d_knqdOcWTM.srt
 file_size: 86741
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

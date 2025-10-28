@@ -6,8 +6,6 @@ description: Thumbnail image of a screenshot of Hello Waves, a video game create
 file: /courses/cms-611j-creating-video-games-fall-2014/4071a2e7d5f91a9e342efa8dce6c7211_cms-611kf14-th.jpg
 file_size: 11801
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: A student playtesting a game.
   credit: Image courtesy of MIT students. Used with permission.

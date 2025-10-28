@@ -4,8 +4,6 @@ description: Subtitle file for a video of the Heat Wave team's final presentatio
 file: /courses/cms-611j-creating-video-games-fall-2014/e1650633c464dac587a3d728bcd6111c_sKolTx6sxUo.srt
 file_size: 197951
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

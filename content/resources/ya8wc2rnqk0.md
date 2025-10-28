@@ -6,8 +6,6 @@ description: "Subtitle file for a lecture video. In this lecture, the professors
 file: /courses/cms-611j-creating-video-games-fall-2014/cfd24ffb68d6d72cc761a91c9376da0b_Ya8wC2rNQK0.srt
 file_size: 116067
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -6,8 +6,6 @@ description: "Instructions for a team project to create a playable digital proto
 file: /courses/cms-611j-creating-video-games-fall-2014/da82779fc3e80d53b8d6d4e3a8701c23_MITCMS_611JF14_project2.pdf
 file_size: 609931
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

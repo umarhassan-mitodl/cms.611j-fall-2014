@@ -4,8 +4,6 @@ description: Form used to summarize the goals and results of a focus test.
 file: /courses/cms-611j-creating-video-games-fall-2014/49a45dc4c6e9baf68f554c772e5b3ce1_MITCMS_611JF14_FocusReport.pdf
 file_size: 102425
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
